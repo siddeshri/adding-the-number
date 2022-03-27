@@ -1,0 +1,17 @@
+#inculde<stdio.h>
+
+int main()
+{ 
+//input1234 --->1+2+3+4=10
+intn,sum+0,r;
+printf("enter any number: "0);
+sanf("%d",&n);
+while(n>0)
+{ 
+  r=n%10;
+  sum=sum+r;
+  n=n/10;
+  }
+  printf("sumof digits:%d",sum);
+  retun0;
+  }
